@@ -10,6 +10,19 @@ body {
 	font-family: 'Montserrat', Helvetica, sans-serif;
 }
 
+.jumbotron {
+	background-image: url('https://photos-5.dropbox.com/t/2/AADMP1QCNTIMQD9teey-1Be2H1Flsaz-sde5mUgU9ik2xA/12/545952529/jpeg/32x32/1/_/1/2/jumbotron.jpg/EMLVxq8EGEYgAigC/bzXAMvJR1TZ01whYud1UmqvgpQHzw-XbW7KmZJGfB1U?size=1024x768&size_mode=3');
+	h1, h2 {
+		font-family: guardian-egyptt, georgia, serif;
+	}
+	color: #fff;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+}
+
+
+
 /* Typography */
 
 .center {
